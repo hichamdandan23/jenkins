@@ -15,7 +15,7 @@
         <configuration>
           <archive>
             <manifest>
-              <mainClass>com.learningjenkins.App</mainClass>
+              <mainClass>com.learningjenkins.App.java</mainClass>
             </manifest>
           </archive>
           <descriptorRefs>
